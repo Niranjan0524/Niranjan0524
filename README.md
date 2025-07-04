@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Niranjan Alase</h1>
-<h3 align="center">Aspiring Full Stack Developer | AI & Data Science Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Niranjan </h1>
+<h3 align="center"> Software Developer  </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan0524&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan0524" /> </p>
 
-- 🔭 I’m currently working on [Full Stack development](https://github.com/Niranjan0524/GeminiCraft)
+- 🔭 I’m currently working on [Full Stack development](https://github.com/Niranjan0524/online-Judge)
 
 - 👨‍💻 All of my projects are available at [http://niranjanalase.netlify.app](http://niranjanalase.netlify.app)
 
-- 💬 Ask me about **React ,Node, mongodb,Express, c++**
+- 💬 Ask me about **React ,,Python ,Node, mongodb,Express, c++, **
 
 - 📫 How to reach me **parthalase05gmali.com@gmail.com**
 
 - 📄 Know about my experiences [https://niranjanalase.netlify.app/assets/resume/NiranjanResume.pdf](https://niranjanalase.netlify.app/assets/resume/NiranjanResume.pdf)
 
-- ⚡ Fun fact **I am Mad at Tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
