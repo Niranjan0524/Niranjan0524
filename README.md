@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Dev + AI](https://github.com/Niranjan0524/online-Judge)
 
-- 👨‍💻 All of my projects are available at [http://niranjanalase.netlify.app](http://niranjanalase.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](http://niranjanalase.netlify.app)
 
 - 💬 Ask me about **React ,,Python ,Node, mongodb,Express, c++, **
 
 - 📫 How to reach me **parthalase05gmali.com@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM](https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM)
 
 
 <h3 align="left">Connect with me:</h3>
