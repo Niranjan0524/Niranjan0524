@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **parthalase05gmali.com@gmail.com**
 
-- 📄 Know about my experiences [https://niranjanalase.netlify.app/assets/resume/NiranjanResume.pdf](https://niranjanalase.netlify.app/assets/resume/NiranjanResume.pdf)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM](https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM)
 
 
 <h3 align="left">Connect with me:</h3>
