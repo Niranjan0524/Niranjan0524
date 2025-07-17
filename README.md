@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan0524&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan0524" /> </p>
 
-- 🔭 I’m currently working on [Full Stack development](https://github.com/Niranjan0524/online-Judge)
+- 🔭 I’m currently working on [Dev + AI](https://github.com/Niranjan0524/online-Judge)
 
 - 👨‍💻 All of my projects are available at [http://niranjanalase.netlify.app](http://niranjanalase.netlify.app)
 
