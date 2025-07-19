@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dev + AI](https://github.com/Niranjan0524/online-Judge)
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://niranjanalase.netlify.app)
+- 👨‍💻 All of my projects are available at [Portfolio](http://niranjan5.me)
 
 - 💬 Ask me about **React ,,Python ,Node, mongodb,Express, c++, **
 
