@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan0524&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan0524" /> </p>
 
-- 🔭 I’m currently working on [Dev + AI](https://github.com/Niranjan0524/online-Judge)
+- 🔭 I’m currently Exploring Backend , System Design and Scaling.
 
 - 👨‍💻 All of my projects are available at [Portfolio](http://niranjan5.me)
 
-- 💬 Ask me about **React ,,Python ,Node, mongodb,Express, c++, **
+- 💬 Ask me about **TypeScript ,Javascript ,React ,Python ,Node, mongodb,Express, MySql , c++**
 
-- 📫 How to reach me **parthalase05gmali.com@gmail.com**
+- 📫 How to reach me **niranjanalase05@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM)
+- 📄 Know about my experiences and Work [Resume]([https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM](https://drive.google.com/drive/folders/1eya4Z_vVnvO-VUBOPcfkMHmrg4OcHLbk?usp=drive_link))
 
 
 <h3 align="left">Connect with me:</h3>
