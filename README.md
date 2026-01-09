@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **niranjanalase05@gmail.com**
 
-- 📄 Know about my experiences and Work [Resume]([https://drive.google.com/drive/folders/1eMlxpWqEzJ2PXHJtAdi6wtNH5u7Wu3ZM](https://drive.google.com/drive/folders/1eya4Z_vVnvO-VUBOPcfkMHmrg4OcHLbk?usp=drive_link))
+- 📄 Know about my experiences and Work [Resume](https://drive.google.com/drive/folders/1eya4Z_vVnvO-VUBOPcfkMHmrg4OcHLbk?usp=drive_link)
 
 
 <h3 align="left">Connect with me:</h3>
