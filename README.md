@@ -1,5 +1,11 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=130&lines=%E2%96%88%E2%96%88%E2%96%88%E2%95%97+++%E2%96%88%E2%96%88%E2%95%97%E2%96%88%E2%96%88%E2%95%97%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97+%E2%96%88%E2%96%88%E2%96%88%E2%95%97+++%E2%96%88%E2%96%88%E2%95%97;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97++%E2%96%88%E2%96%88%E2%95%91%E2%96%88%E2%96%88%E2%95%91%E2%96%88%E2%96%88%E2%95%94%E2%96%88%E2%96%88%E2%95%97%E2%96%88%E2%96%88%E2%95%94%E2%96%88%E2%96%88%E2%95%90%E2%96%88%E2%96%88%E2%95%97%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%95%97++%E2%96%88%E2%96%88%E2%95%91" />
+</picture>
+
+<h1 align="center">
+
 ```
 ███╗   ██╗██╗██████╗  █████╗ ███╗   ██╗     ██╗ █████╗ ███╗   ██╗
 ████╗  ██║██║██╔══██╗██╔══██╗████╗  ██║     ██║██╔══██╗████╗  ██║
@@ -8,6 +14,8 @@
 ██║ ╚████║██║██║  ██║██║  ██║██║ ╚████║╚█████╔╝██║  ██║██║ ╚████║
 ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
+
+</h1>
 
 ### `< Software Developer />` · Backend · System Design · Scalable Systems
 
@@ -66,6 +74,7 @@ $ whoami
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **DevOps & Cloud**
@@ -80,13 +89,35 @@ $ whoami
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🔗 [**Portfolio**](http://niranjan5.me) | Personal portfolio showcasing my work | React · Tailwind |
-| 🛠 *(Add Project 2)* | *(Short description)* | *(Stack)* |
-| 🧩 *(Add Project 3)* | *(Short description)* | *(Stack)* |
+### 🔗 [Distributed URL Shortener](https://github.com/Niranjan0524/Distributed-URL-Shortner)
+> A scalable, distributed URL shortening service built for high availability and low latency.
 
-> 💡 *Replace the placeholders above with your real projects!*
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+---
+
+### ⚖️ [CodeVibe — Online Judge](https://github.com/Niranjan0524/online-Judge)
+> A competitive programming platform with real-time code execution, problem sets, and verdicts.
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🔐 [Secure Multi-Tenant API](https://github.com/Niranjan0524/Secure-Multi-Tenant-API)
+> A production-ready multi-tenant REST API with role-based access control and tenant isolation.
+
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -104,10 +135,6 @@ $ whoami
 ---
 
 <div align="center">
-
-```
-// Thanks for visiting. Let's build something scalable. 🚀
-```
 
 **📬 Reach me at** · [niranjanalase05@gmail.com](mailto:niranjanalase05@gmail.com) · [LinkedIn](https://linkedin.com/in/niranjan05)
 
