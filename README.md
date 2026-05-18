@@ -1,31 +1,114 @@
-<h1 align="center">Hi 👋, I'm Niranjan </h1>
-<h3 align="center"> Software Developer  </h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjan0524&label=Profile%20views&color=0e75b6&style=flat" alt="niranjan0524" /> </p>
+```
+███╗   ██╗██╗██████╗  █████╗ ███╗   ██╗     ██╗ █████╗ ███╗   ██╗
+████╗  ██║██║██╔══██╗██╔══██╗████╗  ██║     ██║██╔══██╗████╗  ██║
+██╔██╗ ██║██║██████╔╝███████║██╔██╗ ██║     ██║███████║██╔██╗ ██║
+██║╚██╗██║██║██╔══██╗██╔══██║██║╚██╗██║██   ██║██╔══██║██║╚██╗██║
+██║ ╚████║██║██║  ██║██║  ██║██║ ╚████║╚█████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-- 🔭 I’m currently Exploring Backend , System Design and Scaling.
+### `< Software Developer />` · Backend · System Design · Scalable Systems
 
-- 👨‍💻 All of my projects are available at [Portfolio](http://niranjan5.me)
+[![Profile Views](https://komarev.com/ghpvc/?username=niranjan0524&label=Profile+Views&color=00ff88&style=flat-square)](https://github.com/niranjan0524)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-niranjan5.me-00ff88?style=flat-square&logoColor=white)](http://niranjan5.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjan05-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/niranjan05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Parth0524-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Parth0524/)
+[![Email](https://img.shields.io/badge/Email-niranjanalase05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:niranjanalase05@gmail.com)
 
-- 💬 Ask me about **TypeScript ,Javascript ,React ,Python ,Node, mongodb,Express, MySql , c++**
+</div>
 
-- 📫 How to reach me **niranjanalase05@gmail.com**
+---
 
-- 📄 Know about my experiences and Work [Resume](https://drive.google.com/drive/folders/1eya4Z_vVnvO-VUBOPcfkMHmrg4OcHLbk?usp=drive_link)
+```bash
+$ whoami
+> Niranjan — Backend dev obsessed with distributed systems & clean architecture.
+> Currently exploring: System Design · Scalability · High-Performance APIs
+```
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niranjan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niranjan05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/niranjancracks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="niranjancracks" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Parth0524/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="niranjanalase05" height="30" width="40" /></a>
-</p>
+## ⚡ Currently Learning
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+```
+┌─────────────────────────────────────────────────────────┐
+│  🔬  System Design & Distributed Architecture           │
+│  📦  Containerization & Orchestration (Docker/K8s)      │
+│  📡  Message Queues & Event-Driven Systems (Kafka)      │
+│  🧠  Advanced DSA & Competitive Programming             │
+└─────────────────────────────────────────────────────────┘
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan0524&show_icons=true&locale=en&layout=compact" alt="niranjan0524" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjan0524&show_icons=true&locale=en" alt="niranjan0524" /></p>
+## 🛠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan0524&" alt="niranjan0524" /></p>
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔗 [**Portfolio**](http://niranjan5.me) | Personal portfolio showcasing my work | React · Tailwind |
+| 🛠 *(Add Project 2)* | *(Short description)* | *(Stack)* |
+| 🧩 *(Add Project 3)* | *(Short description)* | *(Stack)* |
+
+> 💡 *Replace the placeholders above with your real projects!*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=niranjan0524&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan0524&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan0524&theme=chartreuse-dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// Thanks for visiting. Let's build something scalable. 🚀
+```
+
+**📬 Reach me at** · [niranjanalase05@gmail.com](mailto:niranjanalase05@gmail.com) · [LinkedIn](https://linkedin.com/in/niranjan05)
+
+</div>
