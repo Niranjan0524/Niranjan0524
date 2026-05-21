@@ -125,10 +125,10 @@ $ whoami
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=niranjan0524&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan0524&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=niranjan0524&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&icon_color=00ff88" />
+<img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=niranjan0524&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan0524&theme=chartreuse-dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" />
+<img src="https://streak-stats.demolab.com/?user=niranjan0524&theme=chartreuse-dark&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&border=00ff88" />
 
 </div>
 
